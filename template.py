@@ -10,10 +10,10 @@ project_name = "textSummarizer"
 list_of_files = [
     ".github/workflows/.gitkeep",
     f"src/ssss{project_name}/__init__.py",
-    f"src/ssss{project_name}/components/__init__.py"
+    f"src/ssss{project_name}/components/__init__.py",
     f"src/ssss{project_name}/utils/__init__.py",
     f"src/ssss{project_name}/utils/common.py",
-    f"src/ssss{project_name}/logging//__init__.py",
+    f"src/ssss{project_name}/logging/__init__.py",
     f"src/ssss{project_name}/config/__init__.py",
     f"src/ssss{project_name}/config/configuration.py",
     f"src/ssss{project_name}/pipeline/__init__.py",
