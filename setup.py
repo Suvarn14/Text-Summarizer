@@ -14,7 +14,7 @@ setuptools.setup(
     name=SRC_REPO,
     version=__version__,
     author=AUTHOR_USER_NAME,
-    description="A small Python Pacakage for CNN application",
+    description="A small Python Pacakage for NLP application",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Suvarn14/Text-Summarizer",
